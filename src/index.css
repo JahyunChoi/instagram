@@ -1,0 +1,17 @@
+/* index.js에서 임폴트된다 */
+body {
+  background-color: aliceblue;
+}
+
+/* .container {
+  margin: auto;
+  max-width: 600px;
+}
+
+.todoBlock{
+  padding: 30px;
+  margin-top: 50px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 19px 17px 13px rgb(0 0 0 16%);
+} */
