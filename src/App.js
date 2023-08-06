@@ -10,7 +10,7 @@ export default function App() {
 const [todoData, setTodoData] = useState([]);//빈배열
 const [value, setValue] = useState("");//빈스트링
 //const후 []안에있는것 첫번째는 인수변수이름 두번째 인수State를 정하는 함수
-
+//
 const btnStyle = {
   color: "#ccc",
   border: "none",
